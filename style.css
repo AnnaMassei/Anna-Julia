@@ -3,17 +3,27 @@ header{
     color: white 
 }
 .cabecalho-imagem{
-   width: 20%;
-   display: inline-block; margin: 0 700px; font-size: 32px ;
+   width: 17%;
+   display: inline-block; margin: 0 700px; font-size: 32px ;}
+
+
+.cabecalho-lista{
+    display: inline-block;margin: 0 22px;font-size: 32px
 }
+
+
+   
+
+
 .cabecalho-icone{
     width:2%;
-    display: inline-block; margin: 0 1800px;font-size: 32px;
+    display: inline-block; margin: 0 1800px;font-size: 32px;}
+    #imgpos {position: absolute;left: 50px; top: 25px;}
     
     
-}
+
 .cabecalho-iconedois{
     width:2%;
-    display:inline-block;margin: 0 1700px;font-size: 32px;
+    display:inline-block;margin: 0 1700px;font-size: 32px;}
+    #imgpos2 {position: absolute;left: 90px; top: 20px;}
 
-}
