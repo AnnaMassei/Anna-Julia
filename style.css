@@ -8,11 +8,8 @@ header{
 
 
 .cabecalho-lista{
-    display: inline-block;margin: 0 22px;font-size: 32px
-    
+    display: flex; justify-content: space-around;
 }
-
-
 
 
 .cabecalho-icone{
@@ -27,3 +24,25 @@ header{
     display:inline-block;margin: 0 1700px;font-size: 32px;}
     #imgpos2 {position: absolute;left: 90px; top: 20px;}
 
+.foto-lista{
+   display: flex; justify-content: space-around;
+   
+}
+.foto-modelo{
+    display:flex; justify-content: center;
+}
+.nome-modelo{
+    display: flex;justify-content:space-around ;
+}
+.rodapé{
+    background-color: black;
+    color: #FFFFFF;
+}
+.lista1{
+    display:grid;justify-content: space-around;
+}
+.lista2 {  display:grid;justify-content: center;}
+
+.br{
+    color: #FFFFFF;
+}
